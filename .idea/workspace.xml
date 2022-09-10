@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46882f39-f657-4a8f-b1e2-3368946b07ac" name="Changes" comment="Add Onn">
-      <change afterPath="$PROJECT_DIR$/src/Pratice/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/MiniMum_No_Of_Platform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/N_Meeting_In_Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Job_Sequencing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeIntervals">
+  <component name="RunManager" selected="Application.Job_Sequencing">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratice.HelloWorld" />
       <module name="CoreJava2" />
@@ -58,6 +56,19 @@
     </configuration>
     <configuration name="Incre_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratice.Incre_Stock" />
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Job_Sequencing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.Job_Sequencing" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Job_Sequencing" />
         <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.Incre_Stock" />
@@ -141,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662727869152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Onn">
+      <created>1662802835630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662802835630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
