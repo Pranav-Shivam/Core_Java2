@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46882f39-f657-4a8f-b1e2-3368946b07ac" name="Changes" comment="Add Onn">
-      <change afterPath="$PROJECT_DIR$/src/Pratice/Fractional_Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/Fractional_Knapsack_GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/Knapsack_Problem_0_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/LetterCombinationOf_Mob_No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision_Question/CountNoOfSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision_Question/ValidBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Matrix_Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Minimum_No_Coin_Required.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Nth_Root_Of_a_No.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fractional_Knapsack_GFG">
-    <configuration name="CountNoOfSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Revision_Question.CountNoOfSubstring" />
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Revision_Question.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Nth_Root_Of_a_No">
     <configuration name="Fractional_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratice.Fractional_Knapsack" />
       <module name="CoreJava2" />
@@ -98,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Nth_Root_Of_a_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.Nth_Root_Of_a_No" />
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="xyz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratice.xyz" />
       <module name="CoreJava2" />
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nth_Root_Of_a_No" />
         <item itemvalue="Application.Fractional_Knapsack_GFG" />
         <item itemvalue="Application.Fractional_Knapsack" />
         <item itemvalue="Application.Knapsack_Problem_0_1" />
         <item itemvalue="Application.xyz" />
-        <item itemvalue="Application.CountNoOfSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662841835003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Onn">
+      <created>1663007595869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663007595869</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
