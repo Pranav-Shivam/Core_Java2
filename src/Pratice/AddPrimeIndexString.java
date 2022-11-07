@@ -4,7 +4,7 @@ import java.util.*;
 
 public class AddPrimeIndexString {
     public static void main(String[] args) {
-        System.out.println(Remove("aaabbbccc"));
+        System.out.println(Remove("abcd"));
     }
     public static String Remove(String S)
     {
@@ -15,7 +15,7 @@ public class AddPrimeIndexString {
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
         for (char ch: map.keySet()) {
-            if(!isPrime(map.get(ch)) ){
+            if(!isPrime(map.get(ch)) || map.get(ch)==1){
                 for (int i = 0; i < map.get(ch); i++) {
                     result+=ch;
                 }
