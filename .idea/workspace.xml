@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46882f39-f657-4a8f-b1e2-3368946b07ac" name="Changes" comment="Add Onn">
-      <change afterPath="$PROJECT_DIR$/src/Pratice/AlterCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/CodeDecode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/MedianOf_Two_sorted_Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/AddPrimeIndexString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/InfixEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Max_Diif_Mean_Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/MinimunReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Quadplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/SourabhVehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revision_Question/Ternary_3_var_largest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,12 +47,13 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/New folder/Extra/Intro-to-Java-Programming-master/Intro-to-Java-Programming-master/Exercise_14/Exercise_14_11/Exercise_14_11.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CodeDecode">
-    <configuration name="AlterCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.AlterCase" />
+  <component name="RunManager" selected="Application.AddPrimeIndexString">
+    <configuration name="AddPrimeIndexString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.AddPrimeIndexString" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.CodeDecode" />
+    <configuration name="InfixEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.InfixEvaluation" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fractional_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.Fractional_Knapsack" />
+    <configuration name="Max_Diif_Mean_Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.Max_Diif_Mean_Median" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fractional_Knapsack_GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.Fractional_Knapsack_GFG" />
+    <configuration name="MinimunReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.MinimunReplacement" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nth_Root_Of_a_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.Nth_Root_Of_a_No" />
+    <configuration name="Ternary_3_var_largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Revision_Question.Ternary_3_var_largest" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratice.*" />
+          <option name="PATTERN" value="Revision_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CodeDecode" />
-        <item itemvalue="Application.AlterCase" />
-        <item itemvalue="Application.Nth_Root_Of_a_No" />
-        <item itemvalue="Application.Fractional_Knapsack_GFG" />
-        <item itemvalue="Application.Fractional_Knapsack" />
+        <item itemvalue="Application.AddPrimeIndexString" />
+        <item itemvalue="Application.InfixEvaluation" />
+        <item itemvalue="Application.Max_Diif_Mean_Median" />
+        <item itemvalue="Application.Ternary_3_var_largest" />
+        <item itemvalue="Application.MinimunReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663098680280</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Onn">
+      <created>1663185384629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663185384629</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
