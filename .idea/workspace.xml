@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46882f39-f657-4a8f-b1e2-3368946b07ac" name="Changes" comment="Add Onn">
-      <change afterPath="$PROJECT_DIR$/src/Pratice/CoPrimeRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/Colsur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/NthPrimeNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/StringChallengeManish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/StringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/AddString_415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/EventConflict_2246.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Bivalued.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratice/Fountain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +47,22 @@
     &quot;last_opened_file_path&quot;: &quot;E:/New folder/Extra/Intro-to-Java-Programming-master/Intro-to-Java-Programming-master/Exercise_14/Exercise_14_11/Exercise_14_11.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringRotation">
-    <configuration name="AddPrimeIndexString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.AddPrimeIndexString" />
+  <component name="RunManager" selected="Application.AddString_415">
+    <configuration name="AddString_415" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.AddString_415" />
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bivalued" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.Bivalued" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Colsur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.Colsur" />
+    <configuration name="EventConflict_2246" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.EventConflict_2246" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratice.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,21 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthPrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.NthPrimeNo" />
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringChallengeManish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.StringChallengeManish" />
+    <configuration name="Fountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice.Fountain" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddString_415" />
+        <item itemvalue="Application.EventConflict_2246" />
+        <item itemvalue="Application.Fountain" />
+        <item itemvalue="Application.Bivalued" />
         <item itemvalue="Application.StringRotation" />
-        <item itemvalue="Application.Colsur" />
-        <item itemvalue="Application.StringChallengeManish" />
-        <item itemvalue="Application.NthPrimeNo" />
-        <item itemvalue="Application.AddPrimeIndexString" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667825045753</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add Onn">
+      <created>1668083704333</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668083704333</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
