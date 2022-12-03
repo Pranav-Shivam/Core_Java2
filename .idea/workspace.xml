@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46882f39-f657-4a8f-b1e2-3368946b07ac" name="Changes" comment="Add Onn">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/AddString_415.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/EventConflict_2246.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/Bivalued.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratice/Fountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Fizz_Buzz_412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/IsSubsequence_392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LongestPalindromeString_409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Num_To_Hex_405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ThirdMaximunNo_414.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,26 +48,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/New folder/Extra/Intro-to-Java-Programming-master/Intro-to-Java-Programming-master/Exercise_14/Exercise_14_11/Exercise_14_11.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AddString_415">
+  <component name="RunManager" selected="Application.Num_To_Hex_405">
     <configuration name="AddString_415" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.AddString_415" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bivalued" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.Bivalued" />
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.Fountain" />
+    <configuration name="Fizz_Buzz_412" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Fizz_Buzz_412" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratice.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratice.StringRotation" />
+    <configuration name="Num_To_Hex_405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Num_To_Hex_405" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratice.*" />
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdMaximunNo_414" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ThirdMaximunNo_414" />
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num_To_Hex_405" />
+        <item itemvalue="Application.Fizz_Buzz_412" />
+        <item itemvalue="Application.ThirdMaximunNo_414" />
         <item itemvalue="Application.AddString_415" />
         <item itemvalue="Application.EventConflict_2246" />
-        <item itemvalue="Application.Fountain" />
-        <item itemvalue="Application.Bivalued" />
-        <item itemvalue="Application.StringRotation" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668083704333</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Onn">
+      <created>1669707679717</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669707679717</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
