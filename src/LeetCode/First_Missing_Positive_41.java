@@ -20,7 +20,7 @@ public class First_Missing_Positive_41 {
         {
             return 1;
         }
-        int max=Collections.max(set);
+        int max=Collections.max(set);//set.last();
         for (int i = 1; i <=max; i++) {
             if(!set.contains(i))
             {
